@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WeatherAppJava</string>
+    <string name="temp_formt">Температура в Кельвинах: %s</string>
+    <string name="desrciption_format">Описание: %s</string>
 </resources>
